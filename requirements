@@ -1,4 +1,4 @@
- streamlit
- pandas==2.1.0
- numpy
- matplotlib
+        # requirements.txt
+        streamlit
+        pandas
+        plotly
